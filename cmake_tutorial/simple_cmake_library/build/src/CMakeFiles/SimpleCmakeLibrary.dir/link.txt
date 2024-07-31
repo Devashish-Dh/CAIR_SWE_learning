@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSimpleCmakeLibrary.a CMakeFiles/SimpleCmakeLibrary.dir/printhello.cpp.o
+/usr/bin/ranlib libSimpleCmakeLibrary.a

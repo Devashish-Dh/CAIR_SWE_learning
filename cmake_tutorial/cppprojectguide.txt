@@ -1,0 +1,9 @@
+how to structure a c++ project?
+
+header files	// go into "include" directory
+source file	//go into "source" directory
+executables	// they are normally examples for/of the libraries that you are developing, then they go into the "examples" directory
+
+there must be a topmost/parent directory where the CMakeLists file stays for the whole project, and there may be others of these files that exist in the libs included etc
+
+
