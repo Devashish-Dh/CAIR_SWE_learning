@@ -1,0 +1,3 @@
+/home/ved/sweexperiments/CAIR_SWE_learning/cmake_tutorial/simple_cmake_example/build/CMakeFiles/main.dir
+/home/ved/sweexperiments/CAIR_SWE_learning/cmake_tutorial/simple_cmake_example/build/CMakeFiles/edit_cache.dir
+/home/ved/sweexperiments/CAIR_SWE_learning/cmake_tutorial/simple_cmake_example/build/CMakeFiles/rebuild_cache.dir
