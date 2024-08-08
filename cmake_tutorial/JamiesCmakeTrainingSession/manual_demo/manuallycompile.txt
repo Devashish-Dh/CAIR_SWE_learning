@@ -1,6 +1,0 @@
-open the terminal here
-
-run :
-g++ basic.cpp -o hello1
-
-then run the executable generated
