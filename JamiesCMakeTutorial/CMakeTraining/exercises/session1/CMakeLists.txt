@@ -1,0 +1,16 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
+
+PROJECT(TestQuadReg LANGUAGES CXX)
+
+SET(TEST_QUADREG_SOURCES
+	quad_reg/MovingQuadReg.cpp
+	test_regression.cpp)
+	
+INCLUDE_DIRECTORIES(quad_reg)
+
+ADD_COMPILE_OPTIONS(--std=c++11 -Wall)
+
+ADD_EXECUTABLE(test_regression 
+	${TEST_QUADREG_SOURCES})
+
+
