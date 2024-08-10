@@ -2,7 +2,18 @@ CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
 
 project(usingAStaticLib)
 
+
+
 ADD_EXECUTABLE(usingAStaticLib ${CMAKE_SOURCE_DIR}/src/main.cpp)
+
+
+
+# now our CMake needs to be told to build and link out external glfw repo/lib too
+ADD_SUBDIRECTORY(external/glfw)
+
+
+
+
 
 TARGET_LINK_DIRECTORIES(usingAStaticLib PRIVATE ${CMAKE_SOURCE_DIR}/libs/somelibdemo/build)
 

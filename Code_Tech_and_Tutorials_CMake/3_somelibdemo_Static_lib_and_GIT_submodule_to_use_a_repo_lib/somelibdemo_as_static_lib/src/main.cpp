@@ -3,7 +3,7 @@
 
 int main(){
 
-std::cout<<devmath::add(123,2);
+std::cout<<devmath::add(123,2)<<"\n \n \n done running the main.cpp \n";
 
 return 0;
 }

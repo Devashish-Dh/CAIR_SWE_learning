@@ -1,3 +1,0 @@
-/home/ved/sweexperiments/CAIR_SWE_learning/Code_Tech_and_Tutorials_CMake/using_somelibdemo_Static_Built_library/build/CMakeFiles/usingAStaticLib.dir
-/home/ved/sweexperiments/CAIR_SWE_learning/Code_Tech_and_Tutorials_CMake/using_somelibdemo_Static_Built_library/build/CMakeFiles/edit_cache.dir
-/home/ved/sweexperiments/CAIR_SWE_learning/Code_Tech_and_Tutorials_CMake/using_somelibdemo_Static_Built_library/build/CMakeFiles/rebuild_cache.dir

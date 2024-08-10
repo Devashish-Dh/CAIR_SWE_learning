@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/usingAStaticLib.dir/src/main.cpp.o -o usingAStaticLib   -L/home/ved/sweexperiments/CAIR_SWE_learning/Code_Tech_and_Tutorials_CMake/using_somelibdemo_Static_Built_library/libs/somelibdemo/build  -Wl,-rpath,/home/ved/sweexperiments/CAIR_SWE_learning/Code_Tech_and_Tutorials_CMake/using_somelibdemo_Static_Built_library/libs/somelibdemo/build -ldevmath 
