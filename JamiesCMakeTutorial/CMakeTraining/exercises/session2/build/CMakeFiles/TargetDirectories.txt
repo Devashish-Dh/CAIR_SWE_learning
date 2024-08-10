@@ -1,0 +1,6 @@
+/home/ved/sweexperiments/CAIR_SWE_learning/JamiesCMakeTutorial/CMakeTraining/exercises/session2/build/CMakeFiles/test_regression.dir
+/home/ved/sweexperiments/CAIR_SWE_learning/JamiesCMakeTutorial/CMakeTraining/exercises/session2/build/CMakeFiles/edit_cache.dir
+/home/ved/sweexperiments/CAIR_SWE_learning/JamiesCMakeTutorial/CMakeTraining/exercises/session2/build/CMakeFiles/rebuild_cache.dir
+/home/ved/sweexperiments/CAIR_SWE_learning/JamiesCMakeTutorial/CMakeTraining/exercises/session2/build/quad_reg/CMakeFiles/moving_quad_reg.dir
+/home/ved/sweexperiments/CAIR_SWE_learning/JamiesCMakeTutorial/CMakeTraining/exercises/session2/build/quad_reg/CMakeFiles/edit_cache.dir
+/home/ved/sweexperiments/CAIR_SWE_learning/JamiesCMakeTutorial/CMakeTraining/exercises/session2/build/quad_reg/CMakeFiles/rebuild_cache.dir
