@@ -1,3 +1,6 @@
 [submodule "cmake_tutorial/CMakeTraining"]
 	path = cmake_tutorial/CMakeTraining
 	url = https://github.com/multiplemonomials/CMakeTraining.git
+[submodule "Code_Tech_and_Tutorials_CMake/3_somelibdemo_Static_lib_and_GIT_submodule_to_use_a_repo_lib/somelibdemo_as_static_lib/external/glfw"]
+	path = Code_Tech_and_Tutorials_CMake/3_somelibdemo_Static_lib_and_GIT_submodule_to_use_a_repo_lib/somelibdemo_as_static_lib/external/glfw
+	url = https://github.com/glfw/glfw.git
