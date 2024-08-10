@@ -1,0 +1,8 @@
+once we have used cmake on the project, unless we are not adding or removing the libraries etc, the make file will remain the same.
+
+
+so after simply changing the codes we dont have to run camke again
+
+just do make in the build dir.
+
+cheers!

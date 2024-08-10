@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdevmath.a CMakeFiles/devmath.dir/somelibdemo.cpp.o
+/usr/bin/ranlib libdevmath.a
